@@ -4,7 +4,7 @@ import { Link, withRouter } from "react-router-dom";
 function Navigation(props) {
   return (
     <div className="navigation">
-      <nav class="navbar navbar-expand navbar-dark bg-primary">
+      <nav class="navbar navbar-expand navbar-dark bg-success">
         <div class="container">
           <Link class="navbar-brand" to="/">
             Assignment 1
