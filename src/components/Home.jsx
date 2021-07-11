@@ -1,5 +1,5 @@
 import React from "react";
-import minions1 from './Minions1.jpg';
+import minions1 from './Minions1.jpeg';
 
 function Home() {
   return (
@@ -14,11 +14,9 @@ function Home() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">Home</h1>
-            <p>
-              Hello my name is Pranay Roberts.
-              Thank you for visiting my REACT assignment where I will be talking about minions!
-            </p>
+            <h1 class="font-weight-light"><b>Home</b></h1>
+            <p>Hello!  My name is Chandan H</p>
+            <p>This is my REACT Assignment 1</p>
           </div>
         </div>
       </div>

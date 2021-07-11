@@ -1,5 +1,5 @@
 import React from "react";
-import minions3 from './Minions3.jpg';
+import minions3 from './Minions3.jpeg';
 function Contact() {
   return (
     <div className="contact">
@@ -13,10 +13,10 @@ function Contact() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">Contact</h1>
-            <p>
-              Contact me via WhatsApp-Number abd My ID number is 20181CSE0557
-            </p>
+            <h1 class="font-weight-light"><b>Contact</b></h1>
+            <p>Chandan H</p>
+            <p>20181CSE0130</p>
+            <p>Presidency University</p>
           </div>
         </div>
       </div>

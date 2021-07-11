@@ -1,5 +1,5 @@
 import React from "react";
-import minions2 from './Minions2.jpg';
+import minions2 from './Minions2.jpeg';
 function About() {
   return (
     <div className="about">
@@ -13,9 +13,9 @@ function About() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">About</h1>
+            <h1 class="font-weight-light"><b>About</b></h1>
             <p>
-            The Minions are small, yellow, cylindrical creatures, who have one or two eyes. They are the signature characters of the Despicable Me series. They bring much of the comedy in the film, and they are known as the scene-stealer of the movie. Frequently, they speak in an incomprehensible language, called Minionese, occasionally switching to English. They are much childish in some ways, yet they seem to be very intelligent in certain aspects. All the minions are minor characters in Minions (with the exception of Kevin, Stuart, and Bob), major character in Despicable Me and Despicable Me 2 and supporting characters in Despicable Me 3 (with the exception of Mel).
+              Minions are a species of tiny yellow henchmen; they look like unusually dressed Mike and Ike candies. They're earnestly driven by the desire to serve an evil boss, though they often screw up because they're selfish, easily distracted, and generally inept.
             </p>
           </div>
         </div>
